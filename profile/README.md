@@ -24,7 +24,7 @@
 | **The live season** | Deployed: one move a day, sealed with a wallet signature, the day's seed drawn from a Robinhood Chain block. No player has played a day yet |
 | **The record** | Live: SHA-256 over every tick, pinned goldens in CI, and a boundary test that fails the build if the engine could reach a network |
 | **Docs** | Live at [/docs](https://wormsim.xyz/docs): the architecture, the determinism, the live protocol, a glossary |
-| **$WORM** | Not live. No token exists today, and nothing on the site can take a payment |
+| **$AIWORM** | Not live. No token exists today, and nothing on the site can take a payment. Unrelated tokens that traded as $WORM are not this project |
 | **Daily anchors** | Built and tested, not used: no anchor wallet is funded, so the on-chain list is empty |
 
 [`docs/STATUS.md`](https://github.com/wormsim/worm/blob/main/docs/STATUS.md) is the single source of
